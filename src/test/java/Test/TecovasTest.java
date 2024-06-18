@@ -24,7 +24,7 @@ WebDriver driver;
 	@Test
 	public void testing() throws InterruptedException {
 //		Signup sup=new Signup(driver);
-//		sup.signning("Jerin", "Varghese", "vjerin259@gmail.com", "tom03%@#_j70_u7", "tom03%@#_j70_u7");
+//		sup.signning("Jerin", "Varghese", "vk259@gmail.com", "to#_j70_u7", "to#_j70_u7");
 		
 		Login log=new Login(driver);
 		log.logging("vjerin259@gmail.com", "tom03%@#_j70_u7");
